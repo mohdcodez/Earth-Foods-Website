@@ -1,4 +1,4 @@
-# 🥜 Peanut Business UI Design  
+# 🥜 Earth Foods UI Design  
 
 This repository showcases a complete **UI design** for a peanut business that exports its products to retailers and businesses. The design is crafted to provide a **modern, user-friendly, and professional** experience for visitors and potential customers.  
 
