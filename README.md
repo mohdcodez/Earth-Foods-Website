@@ -6,7 +6,7 @@ This repository showcases a complete **UI design** for a peanut business that ex
 
 ✅ **Landing Page** – A visually appealing homepage introducing the business.  
 ✅ **Products Page** – A showcase of the peanut products available for export. 
-✅ **Products Detail Page** – A detailed showcase of the peanut product available for export.
+✅ **Products Detail Page** – A detailed showcase of the peanut product available for export. 
 ✅ **About Us** – Information about the company’s history, mission, and values.  
 ✅ **Contact Us** – A dedicated page for inquiries and business collaborations.  
 
